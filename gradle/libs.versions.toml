@@ -1,0 +1,5 @@
+[plugins]
+algomate = { id = "org.tudalgo.algomate", version = "0.8.0" }
+
+[libraries]
+fopbot = { module = "org.tudalgo:fopbot", version = "0.8.2" }
