@@ -31,7 +31,7 @@ public class Main {
         // This sets up the FOPBot World with a 5x5 grid. (DO NOT TOUCH)
         setupWorld();
 
-        // TODO: H0.4 - Initializing FOPBot and move
+        // TODO: H0.3 - Initializing FOPBot and move
 
     }
 
